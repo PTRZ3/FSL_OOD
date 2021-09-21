@@ -1,4 +1,5 @@
-### Few-shot Anomaly Detection By Representation Learning
+### Few-shot Anomaly Detection By Representation Learning  
+
 ## Methodology 1 - Siamese Networks with Contrastive Loss
 + Backbone:  
   siamese_resnet.py  
