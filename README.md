@@ -1,4 +1,5 @@
-### Methodology 1 - Siamese Networks with Contrastive Loss
+### Few-shot Anomaly Detection By Representation Learning
+## Methodology 1 - Siamese Networks with Contrastive Loss
 + Backbone:  
   siamese_resnet.py  
 + Pretraining Stage:  
@@ -11,7 +12,7 @@
   siamese_3d.html  
     
     
-### Methodology 2 - Cross-Entropy Based Netwrork
+## Methodology 2 - Cross-Entropy Based Netwrork
 + Backbone:  
   baseline_resnet.py  
 + Pretraining Stage:   
